@@ -1,0 +1,24 @@
+[project]
+# App name shown in the browser tab and header
+name = "Crypto News Assistant"
+ 
+# Enable message history across sessions (requires auth for persistence)
+enable_telemetry = false
+ 
+[UI]
+name        = "Crypto News Assistant"
+description = "Ask questions about the latest crypto market news"
+default_collapse_content = true
+ 
+# Hide the default Chainlit branding
+hide_cta = true
+ 
+[features]
+# Allow users to edit their messages
+edit_message = false
+ 
+# Show token usage stats (disable for cleaner chatbot feel)
+# unsafe_allow_html = false
+ 
+[meta]
+generated_by = "1.0.0"

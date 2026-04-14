@@ -1,0 +1,32 @@
+[project]
+name = "rag-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "bytez",
+    "chainlit>=2.11.0",
+    "fastapi>=0.135.3",
+    "httpx>=0.28.1",
+    "langchain-chroma>=1.1.0",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.26",
+    "langchain-groq>=1.1.2",
+    "langchain-huggingface>=0.3.1",
+    "langchain-openai>=1.1.12",
+    "langchain-text-splitters>=1.1.1",
+    "langsmith>=0.7.30",
+    "pandas>=3.0.2",
+    "pinecone>=8.1.1",
+    "pinecone-text>=0.11.0",
+    "pydantic>=2.12.5",
+    "pymongo>=4.11.1",
+    "python-dateutil>=2.9.0.post0",
+    "python-dotenv>=1.2.2",
+    "pytz>=2026.1.post1",
+    "ragas>=0.4.3",
+    "requests>=2.33.1",
+    "sentence-transformers>=5.3.0",
+]
