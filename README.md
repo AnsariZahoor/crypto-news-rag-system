@@ -17,8 +17,7 @@
 > - *"What is driving the BTC rally this week?"*
 > - *"What does the SEC say about crypto oversight?"*
 
-<!-- Add screenshot here: docs/demo.png -->
-<!-- ![Chatbot Demo](docs/demo.png) -->
+![alt text](image.png)
 
 ---
 
